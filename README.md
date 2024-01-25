@@ -1,4 +1,4 @@
-# Rest API - Golang Project with Docker Compose
+# Rest API - Golang Project
 
 This is a sample RESTful API project built using Golang, featuring book categories and user entities. The application supports CRUD operations for managing categories, users, and books. The project is dockerized and utilizes PostgreSQL as its database.
 
