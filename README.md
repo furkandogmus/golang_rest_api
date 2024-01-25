@@ -70,5 +70,5 @@ The API documentation is available using Swagger. Visit `/swagger/index.html` af
 The application will be accessible at localhost.
 
 # License
-This project is licensed under the MIT License. Feel free to use and modify the code as needed.
+This project is licensed under the [MIT License](LICENSE).
 
